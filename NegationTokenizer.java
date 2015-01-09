@@ -1,3 +1,7 @@
+//Michael Yang
+//NLP Movie Review Sentiment Analysis
+//Class used by MRSentiment
+
 import java.util.regex.*;
 import java.util.*;
 

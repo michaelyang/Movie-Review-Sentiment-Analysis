@@ -1,3 +1,8 @@
+//Michael Yang
+//NLP Movie Review Sentiment Analysis
+//Read included README file for instructions
+//Not all methods are used
+
 import java.util.*;
 import java.io.*;
 import java.math.BigDecimal;

@@ -19,7 +19,8 @@ It is important to know that the ratio between the positive test reviews and neg
 It is best to keep the number of pos and neg test reviews the same, so that the computed probability of either polartiy happening is 1/2 for Naiive Bayes computations.
 
 If you only want to test a single review and determine whether the code guesses positive or negative:
-	1. Put the review into the positive folder
-	2. Create an empty text file in the negative folder
-	3. Run the program as follows: "java posTrain negTrain <Positive_Test_Directory> <Negative_Test_Directory>"
+
+	1. Put the review into the positive folder</br>
+	2. Create an empty text file in the negative folder</br>
+	3. Run the program as follows: "java posTrain negTrain <Positive_Test_Directory> <Negative_Test_Directory>"</br>
 	4. If the overall accuracy is 1.0, the code guessed positive. If the overall accuracy is 0.0, the code guessed negative.
